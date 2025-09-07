@@ -1,0 +1,1 @@
+even though the file is added to the git we need to add the file again if we modififed it 

@@ -1,0 +1,1 @@
+we can add bunch of files two git by saying git add .
